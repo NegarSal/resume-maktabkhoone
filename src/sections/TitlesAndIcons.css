@@ -1,0 +1,23 @@
+.first{
+  background-color: crimson;
+  color:white;
+}
+.icon{
+  margin: 10px;
+}
+.icons-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  
+
+
+
+
+
+
+

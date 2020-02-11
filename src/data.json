@@ -1,0 +1,95 @@
+{
+    "title":"Hello I'm Negar!",
+    "subtitle":"Chess Player",
+    "links":{
+        "github":"https://github.com/NegarSal",
+        "Linkedin":"https://ir.linkedin.com/in/negar-saljooghi-b71463173"
+    },
+    "sections":[
+        {
+            "title":"About",
+            "items":[
+                {
+                    "type":"p",
+                    "content":"I'm interested in web design"
+                },
+                {
+                    "type":"p",
+                    "content":"I beleive in self-learning."
+                },
+                {
+                    "type":"p",
+                    "content":"I love to learn."
+                }
+            ]
+        },
+        {
+            "title":"Skills",
+            "items":[
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/react.png",
+                        "title":"React"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/javascript.png",
+                        "title":"Javascript"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/html.png",
+                        "title":"HTML"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/css.png",
+                        "title":"CSS"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/wordpress.png",
+                        "title":"WordPress"
+                    }
+                }, 
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/front-end.png",
+                        "title":"Front-End"
+                    }
+                }, 
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/rank.png",
+                        "title":"SEO"
+                    }
+                }, 
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"images/chess.png",
+                        "title":"Chess"
+                    }
+                }
+
+
+
+            ]
+    
+        }
+    ],
+    "icons":{
+        "down": "images/down.png"
+    }
+    }
